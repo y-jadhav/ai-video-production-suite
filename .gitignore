@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.py[cod]
+*.class
+.venv/
+env/
+venv/
+
+# Build artifacts
+dist/
+build/
+*.mp4
+*.zip
+*.tar.gz
+public/*_assets/
+
+# Logs & temp
+*.log
+.DS_Store
+Thumbs.db

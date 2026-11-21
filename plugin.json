@@ -1,0 +1,12 @@
+{
+  "name": "ai-video-production-suite",
+  "displayName": "AI Video Production & Motion Design Suite",
+  "version": "1.0.0",
+  "description": "Complete video editing and motion graphics suite: 48+ video styles (Vox, Reels, YouTube, SaaS, 3D Product, Anime, Storybook), Twitter Wire Agency fetcher (TwitSave), Firecrawl research, and Remotion/HyperFrames rendering.",
+  "author": "Antigravity AI Agent Team",
+  "categories": [
+    "Creative & Media",
+    "Video Production",
+    "Automation"
+  ]
+}

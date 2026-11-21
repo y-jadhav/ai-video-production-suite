@@ -1,0 +1,18 @@
+{
+  "mcpServers": {
+    "twitter": {
+      "command": "python",
+      "args": [
+        "twitter-mcp/server.py"
+      ]
+    },
+    "firecrawl": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "mcp-remote",
+        "https://mcp.firecrawl.dev/v2/mcp-oauth"
+      ]
+    }
+  }
+}
